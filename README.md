@@ -1,4 +1,4 @@
-# [Soft UI Dashboard Laravel](https://soft-ui-dashboard-laravel.creative-tim.com/login)
+# [AmplifyMe](https://soft-ui-dashboard-laravel.creative-tim.com/login)
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) 
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)
@@ -14,7 +14,7 @@
 ## Free Frontend Web App for Laravel
 What happens when you combine Soft UI, one of the hottest design trends right now, and Laravel?  We've partnered with [UPDIVISION](https://updivision.com/) to create the ultimate design & development toolbox. 
 
-Soft UI Dashboard Laravel comes with dozens of handcrafted UI elements tailored for Bootstrap 5 and an out of the box Laravel backend.
+AmplifyMe comes with dozens of handcrafted UI elements tailored for Bootstrap 5 and an out of the box Laravel backend.
 
 ## What am I getting?
 You're getting a multi-purpose tool for building complex apps.
@@ -26,11 +26,11 @@ Soft UI Dashboard PRO Laravel at a glance:
 * Documentation for each component so you can get started fast
 
 ## Free for personal and commercial projects
-Whether you're working on a side project or delivering to a client, we've got you covered. Soft UI Dashboard Laravel is released under MIT license, so you can use it both for personal and commercial projects for free. All you need to do is start coding. 
+Whether you're working on a side project or delivering to a client, we've got you covered. AmplifyMe is released under MIT license, so you can use it both for personal and commercial projects for free. All you need to do is start coding. 
 
 
 ## Detailed documentation and example pages
-We also included detailed documentation for every component and feature so you can follow along. The pre-built example pages give you a quick glimpse of what Soft UI Dashboard Laravel has to offer so you can get started in no time. 
+We also included detailed documentation for every component and feature so you can follow along. The pre-built example pages give you a quick glimpse of what AmplifyMe has to offer so you can get started in no time. 
 
 If you want to get more features, go PRO with [Soft UI Dashboard PRO Laravel](https://www.creative-tim.com/product/soft-ui-dashboard-pro-laravel).
 
@@ -101,7 +101,7 @@ Besides the dashboard, the auth pages, the billing and table pages, there is als
 [View More](https://soft-ui-dashboard-laravel.creative-tim.com/dashboard)
 
 ## Documentation
-The documentation for the Soft UI Dashboard Laravel is hosted at our [website](https://soft-ui-dashboard-laravel.creative-tim.com/documentation/getting-started/overview.html).
+The documentation for the AmplifyMe is hosted at our [website](https://soft-ui-dashboard-laravel.creative-tim.com/documentation/getting-started/overview.html).
 
 ### Login
 If you are not logged in you can only access this page or the Sign Up page. The default url takes you to the login page where you use the default credentials **admin@softui.com** with the password **secret**. Logging in is possible only with already existing credentials. For this to work you should have run the migrations.

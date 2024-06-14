@@ -9,9 +9,9 @@
           <div class="row">
             <div class="col-8">
               <div class="numbers">
-                <p class="text-sm mb-0 text-capitalize font-weight-bold">Today's Money</p>
+                <p class="text-sm mb-0 text-capitalize font-weight-bold">Total Point</p>
                 <h5 class="font-weight-bolder mb-0">
-                  $53,000
+                  53,000
                   <span class="text-success text-sm font-weight-bolder">+55%</span>
                 </h5>
               </div>
@@ -75,7 +75,7 @@
           <div class="row">
             <div class="col-8">
               <div class="numbers">
-                <p class="text-sm mb-0 text-capitalize font-weight-bold">Sales</p>
+                <p class="text-sm mb-0 text-capitalize font-weight-bold">Referal Earnings</p>
                 <h5 class="font-weight-bolder mb-0">
                   $103,430
                   <span class="text-success text-sm font-weight-bolder">+5%</span>
@@ -92,7 +92,7 @@
       </div>
     </div>
   </div>
-  <div class="row mt-4">
+  <!-- <div class="row mt-4">
     <div class="col-lg-7 mb-lg-0 mb-4">
       <div class="card">
         <div class="card-body p-3">
@@ -269,17 +269,17 @@
         </div>
       </div>
     </div>
-  </div>
+  </div> -->
   <div class="row my-4">
     <div class="col-lg-8 col-md-6 mb-md-0 mb-4">
       <div class="card">
         <div class="card-header pb-0">
           <div class="row">
             <div class="col-lg-6 col-7">
-              <h6>Projects</h6>
+              <h6>Task </h6>
               <p class="text-sm mb-0">
                 <i class="fa fa-check text-info" aria-hidden="true"></i>
-                <span class="font-weight-bold ms-1">30 done</span> this month
+                <span class="font-weight-bold ms-1">Recent </span> Activities
               </p>
             </div>
             <div class="col-lg-6 col-5 my-auto text-end">
@@ -301,9 +301,9 @@
             <table class="table align-items-center mb-0">
               <thead>
                 <tr>
-                  <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">Companies</th>
+                  <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">Tasks</th>
                   <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7 ps-2">Members</th>
-                  <th class="text-center text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">Budget</th>
+                  <th class="text-center text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">Points</th>
                   <th class="text-center text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">Completion</th>
                 </tr>
               </thead>
@@ -312,10 +312,10 @@
                   <td>
                     <div class="d-flex px-2 py-1">
                       <div>
-                        <img src="../assets/img/small-logos/logo-xd.svg" class="avatar avatar-sm me-3" alt="xd">
+                          <i class="fa fa-flag  text-success me-4"></i>
                       </div>
                       <div class="d-flex flex-column justify-content-center">
-                        <h6 class="mb-0 text-sm">Soft UI XD Version</h6>
+                        <h6 class="mb-0 text-sm">Daily Tasks </h6>
                       </div>
                     </div>
                   </td>
@@ -358,7 +358,7 @@
                         <img src="../assets/img/small-logos/logo-atlassian.svg" class="avatar avatar-sm me-3" alt="atlassian">
                       </div>
                       <div class="d-flex flex-column justify-content-center">
-                        <h6 class="mb-0 text-sm">Add Progress Track</h6>
+                        <h6 class="mb-0 text-sm">Referal Programs</h6>
                       </div>
                     </div>
                   </td>
@@ -395,7 +395,7 @@
                         <img src="../assets/img/small-logos/logo-slack.svg" class="avatar avatar-sm me-3" alt="team7">
                       </div>
                       <div class="d-flex flex-column justify-content-center">
-                        <h6 class="mb-0 text-sm">Fix Platform Errors</h6>
+                        <h6 class="mb-0 text-sm">Post Performance </h6>
                       </div>
                     </div>
                   </td>
@@ -429,10 +429,10 @@
                   <td>
                     <div class="d-flex px-2 py-1">
                       <div>
-                        <img src="../assets/img/small-logos/logo-spotify.svg" class="avatar avatar-sm me-3" alt="spotify">
+                      <i class="fa fa-plug me-3 text-info" aria-hidden="true"></i>
                       </div>
                       <div class="d-flex flex-column justify-content-center">
-                        <h6 class="mb-0 text-sm">Launch our Mobile App</h6>
+                        <h6 class="mb-0 text-sm">Ads Engagement</h6>
                       </div>
                     </div>
                   </td>
@@ -472,7 +472,7 @@
                   <td>
                     <div class="d-flex px-2 py-1">
                       <div>
-                        <img src="../assets/img/small-logos/logo-jira.svg" class="avatar avatar-sm me-3" alt="jira">
+                      <i class="fa fa-map-pin me-3 text-secondary" aria-hidden="true"></i>
                       </div>
                       <div class="d-flex flex-column justify-content-center">
                         <h6 class="mb-0 text-sm">Add the New Pricing Page</h6>
