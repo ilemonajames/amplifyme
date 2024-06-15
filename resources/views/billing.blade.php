@@ -37,7 +37,7 @@
               <div class="col-md-6">
                 <div class="card">
                   <div class="card-header mx-4 p-3 text-center">
-                    <div class="icon icon-shape icon-lg bg-gradient-primary shadow text-center border-radius-lg">
+                    <div class="icon icon-shape icon-lg bg-gradient-info shadow text-center border-radius-lg">
                       <i class="fas fa-landmark opacity-10"></i>
                     </div>
                   </div>
@@ -52,7 +52,7 @@
               <div class="col-md-6 mt-md-0 mt-4">
                 <div class="card">
                   <div class="card-header mx-4 p-3 text-center">
-                    <div class="icon icon-shape icon-lg bg-gradient-primary shadow text-center border-radius-lg">
+                    <div class="icon icon-shape icon-lg bg-gradient-info shadow text-center border-radius-lg">
                       <i class="fab fa-paypal opacity-10"></i>
                     </div>
                   </div>
