@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [AmplifyMe](https://soft-ui-dashboard-laravel.creative-tim.com/login)
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) 
@@ -456,3 +457,6 @@ Updivision Blog: <https://updivision.com/blog/?ref=sudl-readme>
 
 - [Creative Tim](https://creative-tim.com/?ref=sudl-readme)
 - [UPDIVISION](https://updivision.com)
+=======
+# amplifyme
+>>>>>>> origin/main
